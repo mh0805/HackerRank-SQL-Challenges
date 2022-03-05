@@ -29,3 +29,17 @@ This repository is currently being updated as challenge problems are completed.
 | 18| [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Link](Basic%20Select/Higher_Than_75_Marks.sql)
 | 19| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Link](Basic%20Select/Employee_Names.sql)
 | 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Link](Basic%20Select/Employee_Salaries.sql)
+
+
+### Basic Join
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | [Link](Basic%20Join/Population_Census.sql) |
+| 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Link](Basic%20Join/African_Cities.sql) |
+| 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Link](Basic%20Join/Average_Population_of_Each_Continent.sql) |
+| 4 | [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063) |  |
+| 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) |  |
+| 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) |  |
+| 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) |  |
+| 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) |  |
