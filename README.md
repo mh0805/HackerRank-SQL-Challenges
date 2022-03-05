@@ -19,13 +19,13 @@ This repository is currently being updated as challenge problems are completed.
 | 8 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Link](Basic%20Select/Weather%20Observation%20Station%203.sql)
 | 9 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [Link](Basic%20Select/Weather%20Observation%20Station%204.sql)
 | 10| [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [Link](Basic%20Select/Weather%20Observation%20Station%205.sql)
-| 11| [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) |
-| 12| [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) |
-| 13| [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) |
-| 14| [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) |
-| 15| [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) |
-| 16| [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) |
-| 17| [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) |
-| 18| [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) |
-| 19| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) |
-| 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) |
+| 11| [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [Link](Basic%20Select/Weather%20Observation%20Station%206.sql)
+| 12| [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [Link](Basic%20Select/Weather%20Observation%20Station%207.sql)
+| 13| [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [Link](Basic%20Select/Weather%20Observation%20Station%208.sql)
+| 14| [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Link](Basic%20Select/Weather%20Observation%20Station%209.sql)
+| 15| [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Link](Basic%20Select/Weather%20Observation%20Station%2010.sql)
+| 16| [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Link](Basic%20Select/Weather%20Observation%20Station%2011.sql)
+| 17| [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [Link](Basic%20Select/Weather%20Observation%20Station%2012.sql)
+| 18| [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Link](Basic%20Select/Higher_Than_75_Marks.sql)
+| 19| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Link](Basic%20Select/Employee_Names.sql)
+| 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Link](Basic%20Select/Employee_Salaries.sql)
