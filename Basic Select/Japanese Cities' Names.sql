@@ -1,0 +1,6 @@
+/*SQL - Basic Select - Japanese Cities' Names*/
+/*https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true*/
+
+SELECT name
+FROM city
+WHERE countrycode = 'JPN';
