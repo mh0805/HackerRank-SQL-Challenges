@@ -38,8 +38,8 @@ This repository is currently being updated as challenge problems are completed.
 | 1 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | [Link](Basic%20Join/Population_Census.sql) |
 | 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Link](Basic%20Join/African_Cities.sql) |
 | 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Link](Basic%20Join/Average_Population_of_Each_Continent.sql) |
-| 4 | [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063) |  |
-| 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) |  |
+| 4 | [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063) | [Link](Basic%20Join/The_Report.sql) |
+| 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [Link](Basic%20Join/Top_Competitors.sql) |
 | 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) |  |
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) |  |
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) |  |
