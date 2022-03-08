@@ -11,10 +11,10 @@ WHERE wp.is_evil = 0 AND
                         WHERE wp.age = wp2.age AND w.power = w2.power)
 ORDER BY w.power DESC, wp.age DESC
 
-/*This one is a query that works with MS SQL Server.
-I tried a subquery without using MIN() function and instead partitioned data by the wand code and power
-and ordered them in power DESC and coins_needed ASC, so this way our ideal high-power/low-cost wand wil be chosen, and have this as
-row number. Grabbing the first row would provide us the ideal combination of high power/low cost/older wand.*/
+/*This one is a query that works with MS SQL Server. I tried a subquery without using MIN() function
+and instead partitioned data by the wand code and power. Then I ordered them in power DESC and coins_needed ASC,
+so this way our ideal high-power/low-cost wand will be chosen. The first row of this combined with power and age in descending order
+will yield our high power/low cost/older wand combination.*/
 SELECT id, age, coins_needed, power
 FROM
 (SELECT w.id, wp.age, w.coins_needed, w.power,
